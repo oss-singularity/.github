@@ -1,4 +1,6 @@
-# OSS Singularity 🫰🌈
+🫰🌈
+
+# OSS Singularity
 
 Open-source engineering beyond the event horizon — tools, automation, and experiments built for what comes next.
 
