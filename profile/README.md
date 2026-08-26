@@ -1,2 +1,1 @@
-🫰🌈
-Welcome, fellow traveler! 💎
+🫰🌈 Welcome, fellow traveler! 💎
