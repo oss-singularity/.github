@@ -1,6 +1,6 @@
 <h2 align="center" >🫰🌈 Welcome, fellow traveler! 💎</h2>
 
-### OSS-OO / OSS Singularity
+### OSS-OO.io / OSS-Singularity.io
 
 Open-source engineering beyond the event horizon — tools, automation and experiments for what comes next.
 
